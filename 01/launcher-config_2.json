@@ -1,0 +1,13 @@
+{
+    "launcherIcon": {
+      "collapsed": "apps",
+      "expanded": "keyboard_arrow_right"
+    },
+    "apps": [
+      {
+        "icon": "location_on",
+        "type": "web",
+        "url": "https://cubbles.world/sandbox/cubx.core.rte@3.0.0/iframe/index.html?webpackage-id=cubx-maps@1.0.0-SNAPSHOT&artifact-id=cubx-maps-demo"
+      }
+    ]
+  }
