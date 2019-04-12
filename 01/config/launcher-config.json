@@ -22,7 +22,7 @@
       {
         "icon": "location_on",
         "type": "web",
-        "url": "http://www.openstreetmap.org/export/embed.html?bbox=10.92967987060547%2C50.82843916176981%2C10.965514183044435%2C50.84056807760759&layer=mapnik&marker=50.83450401369103%2C10.947597026824951"
+        "url": "https://www.openstreetmap.org/export/embed.html?bbox=10.92967987060547%2C50.82843916176981%2C10.965514183044435%2C50.84056807760759&layer=mapnik&marker=50.83450401369103%2C10.947597026824951"
       }
     ]
   }
