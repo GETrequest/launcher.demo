@@ -11,7 +11,7 @@
 }
 
 .cubbles-cubx-launcher_cubx-launcher-content-container {
-
+    
 }
 
 .cubbles-cubx-launcher_cubx-launcher-menu {
@@ -31,15 +31,14 @@
 }
 
 .cubbles-cubx-launcher_cubx-launcher-modal {
-
+    z-index: 10000;
 }
 
 .cubbles-cubx-launcher_cubx-launcher-modal-content {
-
 }
 
 .cubbles-cubx-launcher_cubx-launcher-modal-content [data-content-anchor] {
-
+    background-color: white;
 }
 
 .cubbles-cubx-launcher_cubx-launcher-modal-close {

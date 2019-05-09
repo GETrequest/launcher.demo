@@ -1,0 +1,14 @@
+{
+    "launcherIcon": {
+      "collapsed": "apps",
+      "expanded": "keyboard_arrow_right"
+    },
+    "externalStyle": "launcher/externalStyle.css",
+    "apps": [
+      {
+        "icon": "contact_mail",
+        "type": "web",
+        "url": "https://arbeitsbuehnen.lindig.com/xml/output.php?mode=available&menu=yes&type=ab&embedded=no&member=508e63962914a"
+      }
+    ]
+  }
