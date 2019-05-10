@@ -1,0 +1,29 @@
+{
+  "launcherIcon": {
+    "collapsed": "apps",
+    "expanded": "keyboard_arrow_right"
+  },
+  "externalStyle": "externalStyle.css",
+  "apps": [
+    {
+      "icon": "content_paste",
+      "type": "web",
+      "url": "https://rjo1544w34.codesandbox.io/"
+    },
+    {
+      "icon": "contact_mail",
+      "type": "web",
+      "url": "https://www.weimar.de/leben/kontakt/"
+    },
+    {
+      "icon": "location_on",
+      "type": "web",
+      "url": "https://www.openstreetmap.org/export/embed.html?bbox=11.279268264770508%2C50.96534632163772%2C11.36338233947754%2C50.999199646478345&amp;layer=mapnik"
+    },
+    {
+      "icon": "speaker_phone",
+      "type": "web",
+      "url": "https://www.getrequest.de"
+    }
+  ]
+}
