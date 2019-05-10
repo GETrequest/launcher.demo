@@ -6,7 +6,7 @@
   },
   {
    "name": "elasticmash-launcher",
-   "code": "<script data-launcher-config=\"https://raw.githubusercontent.com/GETrequest/launcher.demo/master/01/config/launcher-config.json?token=ACS42HZQLMWINHNXRDBVSAS43VEN2\" type=\"text/javascript\" src=\"https://cubbles.world/sandbox/cubbles-cubx-launcher@0.1.0-SNAPSHOT/cubbles-cubx-launcher-launcher/launcher.bundle.js\"></script>\n"
+   "code": "<script data-launcher-config=\"https://raw.githubusercontent.com/GETrequest/launcher.demo/master/injectorConfigs/weimar.de/demo01/launcher-config/launcher-config.json?token=ACS42HZQLMWINHNXRDBVSAS43VEN2\" type=\"text/javascript\" src=\"https://cubbles.world/sandbox/cubbles-cubx-launcher@0.1.0-SNAPSHOT/cubbles-cubx-launcher-launcher/launcher.bundle.js\"></script>\n"
   }
  ],
  "snippets": [
