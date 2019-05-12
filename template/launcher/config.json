@@ -1,8 +1,8 @@
 {
-  "launcherIcon": {
-    "collapsed": "apps",
-    "expanded": "keyboard_arrow_right"
-  },
+    "launcherIcon": {
+      "collapsed": "more_vert",
+      "expanded": "expand_more"
+    },
   "externalStyle": "launcher/externalStyle.css",
   "apps": [
     {
@@ -16,7 +16,7 @@
       "url": "https://www.getrequest.de"
     },
     {
-      "icon": "calendar_today",
+      "icon": "assessment",
       "type": "web",
       "url": "https://teamup.com/ksy1voz2gbnkm89jag"
     },
