@@ -3,7 +3,7 @@
       "collapsed": "more_vert",
       "expanded": "expand_more"
     },
-  "externalStyle": "launcher/externalStyle.css",
+  "externalStyle": "externalStyle.css",
   "apps": [
     {
       "icon": "contact_mail",

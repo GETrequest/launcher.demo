@@ -3,7 +3,7 @@
       "collapsed": "apps",
       "expanded": "keyboard_arrow_right"
     },
-    "externalStyle": "launcher/externalStyle.css",
+    "externalStyle": "externalStyle.css",
     "apps": [
       {
         "icon": "contact_mail",
