@@ -1,0 +1,33 @@
+(() => {
+    window.launcher = {
+        config: {
+            launcherIcon: {
+                collapsed: 'more_vert',
+                expanded: 'expand_more'
+            },
+            externalStyle: 'https://getrequest.github.io/launcher.demo/template_inline_config/launcher/externalStyle.css',
+            apps: [
+                {
+                    icon: 'contact_mail',
+                    type: 'web',
+                    url: 'https://mdbootstrap.com/api/snippets/embed/573988/fullscreen'
+                },
+                {
+                    icon: 'speaker_phone',
+                    type: 'web',
+                    url: 'https://www.getrequest.de'
+                },
+                {
+                    icon: 'assessment',
+                    type: 'web',
+                    url: 'https://teamup.com/ksy1voz2gbnkm89jag'
+                },
+                {
+                    icon: 'location_on',
+                    type: 'web',
+                    url: 'https://www.openstreetmap.org/export/embed.html?bbox=10.92967987060547%2C50.82843916176981%2C10.965514183044435%2C50.84056807760759&layer=mapnik&marker=50.83450401369103%2C10.947597026824951'
+                }
+            ]
+        }
+    }
+})();
