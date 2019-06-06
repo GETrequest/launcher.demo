@@ -218,12 +218,16 @@
   cursor: pointer;
 }
 
-.cubbles-cubx-launcher_cubx-launcher-modal-close{
-
-}
-
-.cubbles-cubx-launcher_cubx-launcher-modal-close i {
-
+.cubbles-cubx-launcher_cubx-launcher-app-label {
+  display: block;
+  border-radius: 5px;
+  padding: 5px;
+  position: absolute;
+  right: 55px;
+  color: #0076a6;
+  font-weight: bold;
+  text-align: left;
+  background: rgba(255, 255, 255, 0.7);
 }
 
 /*addition*/
