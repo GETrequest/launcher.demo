@@ -6,24 +6,25 @@
   "externalStyle": "externalStyle.css",
   "apps": [
     {
+      "id": "wikipedia",
+      "label": "Wikipedia",
       "icon": "contact_mail",
       "type": "web",
-      "url": "https://wikipedia.de"
+      "url": "https://de.wikipedia.org/wiki/Th%C3%BCringen"
     },
     {
-      "icon": "speaker_phone",
+      "id": "landtag",
+      "label": "Landtag",
+      "icon": "account_balance",
       "type": "web",
-      "url": "https://www.getrequest.de"
+      "url": "https://www.thueringer-landtag.de/aktuelles/aktuelles/"
     },
     {
+      "id": "statisik",
+      "label": "Statistiken",
       "icon": "assessment",
       "type": "web",
-      "url": "https://teamup.com/ksy1voz2gbnkm89jag"
-    },
-    {
-      "icon": "location_on",
-      "type": "web",
-      "url": "https://www.openstreetmap.org/export/embed.html?bbox=8.231506347656252%2C49.85038074305419%2C13.614807128906252%2C51.988263083821714&amp;layer=mapnik"
+      "url": "https://statistik.thueringen.de/presse/pr_kurzinh.asp"
     }
   ]
 }
