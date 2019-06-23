@@ -13,25 +13,25 @@
       "url": "https://de.wikipedia.org/wiki/Th%C3%BCringen"
     },
     {
-      "id": "burgen",
-      "label": "Burgen und Schlösser",
+      "id": "statisik",
+      "label": "Statistiken",
       "icon": "assessment",
       "type": "web",
-      "url": "https://cubbles.world/sandbox/getrequest-coralbird-destination-map@0.2.0-SNAPSHOT/getrequest-coralbird-destination-map-microwebapp/SHOWROOM.html"
+      "url": "https://statistik.thueringen.de/presse/pr_kurzinh.asp"
     },
     {
-      "id": "radwanderwege",
-      "label": "Randwanderwege (todo)",
+      "id": "europawahl",
+      "label": "Europawahl 2019",
       "icon": "account_balance",
       "type": "web",
-      "url": "http://todo.io/"
+      "url": "https://www.wahlen.thueringen.de/datenbank/wahl1/WAHL.asp?wahlart=EW&wJahr=2019"
     },
     {
-      "id": "veranstaltungen",
-      "label": "Veranstaltungen heute (todo)",
+      "id": "europawahl",
+      "label": "Kreistagswahl 2019",
       "icon": "looks",
       "type": "web",
-      "url": "http://todo.io/"
+      "url": "https://www.wahlen.thueringen.de/datenbank/wahl1/WAHL.asp?wahlart=KW&wJahr=2019"
     }
   ]
 }
