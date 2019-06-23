@@ -15,14 +15,14 @@
     {
       "id": "burgen",
       "label": "Burgen und Schlösser",
-      "icon": "assessment",
+      "icon": "account_balance",
       "type": "web",
       "url": "https://cubbles.world/sandbox/getrequest-coralbird-destination-map@0.2.0-SNAPSHOT/getrequest-coralbird-destination-map-microwebapp/SHOWROOM.html"
     },
     {
       "id": "radwanderwege",
       "label": "Randwanderwege (todo)",
-      "icon": "account_balance",
+      "icon": "assessment",
       "type": "web",
       "url": "http://todo.io/"
     },

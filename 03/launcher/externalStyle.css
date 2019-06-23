@@ -226,7 +226,7 @@
   right: 55px;
   color: #0076a6;
   font-weight: bold;
-  text-align: left;
+  white-space: nowrap;
   background: rgba(255, 255, 255, 0.7);
 }
 
