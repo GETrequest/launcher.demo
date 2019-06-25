@@ -37,6 +37,20 @@
       "icon": "looks",
       "type": "web",
       "url": "http://todo.io/"
+    },
+    {
+      "id": "cubbles",
+      "label": "About Cubbles",
+      "icon": "looks",
+      "type": "web",
+      "url": "http://cubbles.github.io/"
+    },
+    {
+      "id": "thuecat",
+      "label": "About ThüCAT",
+      "icon": "looks",
+      "type": "web",
+      "url": "https://thueringen.tourismusnetzwerk.info/inhalte/digitales-content/thuecat/"
     }
   ]
 }
