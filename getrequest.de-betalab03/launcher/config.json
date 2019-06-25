@@ -41,21 +41,21 @@
     {
       "id": "cubbles",
       "label": "About Cubbles",
-      "icon": "looks",
+      "icon": "apps",
       "type": "web",
       "url": "https://cubbles.github.io/"
     },
     {
       "id": "thuecat",
       "label": "About ThüCAT",
-      "icon": "looks",
+      "icon": "cloud",
       "type": "web",
       "url": "https://thueringen.tourismusnetzwerk.info/inhalte/digitales-content/thuecat/"
     },
     {
       "id": "config",
       "label": "Launcher Config",
-      "icon": "looks",
+      "icon": "content_copy",
       "type": "web",
       "url": "https://getrequest.github.io/launcher.demo/getrequest.de-betalab03/launcher/config.json"
     }
