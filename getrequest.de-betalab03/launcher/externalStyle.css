@@ -234,6 +234,13 @@
   display: block;
   white-space: nowrap;
   color: #dd9933;
+  display: block;
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 5px;
+  padding: 5px;
+  right: 75px;
+  text-align: center;
+  width: auto;
 }
 
 /*addition*/
