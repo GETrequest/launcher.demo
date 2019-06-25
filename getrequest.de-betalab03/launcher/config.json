@@ -4,7 +4,7 @@
     "expanded": "expand_more"
   },
   "touchpoint": {
-    "label": "Related Info"
+    "label": "The Launcher"
   },
   "externalStyle": "https://getrequest.github.io/launcher.demo/getrequest.de-betalab03/launcher/externalStyle.css",
   "cubblesRTE": "https://cubbles.world/sandbox/cubx.core.rte@3.0.0",
@@ -33,7 +33,7 @@
     },
     {
       "id": "veranstaltungen",
-      "label": "Events todoy (todo)",
+      "label": "Events today (todo)",
       "icon": "looks",
       "type": "web",
       "url": "http://todo.io/"
