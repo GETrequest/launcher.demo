@@ -6,7 +6,7 @@
   "touchpoint": {
     "label": "Related Info"
   },
-  "externalStyle": "externalStyle.css",
+  "externalStyle": "https://getrequest.github.io/launcher.demo/getrequest.de-betalab03/launcher/externalStyle.css",
   "cubblesRTE": "https://cubbles.world/sandbox/cubx.core.rte@3.0.0",
   "snippets": [
     {
