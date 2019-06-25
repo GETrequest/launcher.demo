@@ -1,39 +1,39 @@
 {
-    "launcherIcon": {
-      "collapsed": "more_vert",
-      "expanded": "expand_more"
-    },
-    "touchpoint" :{
-      "label": "Related Infos"
-    },
+  "launcherIcon": {
+    "collapsed": "more_vert",
+    "expanded": "expand_more"
+  },
+  "touchpoint": {
+    "label": "Related Info"
+  },
   "externalStyle": "externalStyle.css",
   "cubblesRTE": "https://cubbles.world/sandbox/cubx.core.rte@3.0.0",
   "snippets": [
-      {
+    {
       "id": "poi-map",
       "type": "cubbles",
       "snippet": "<getrequest-castles-destination-map-map cubx-webpackage-id=\"getrequest-castles-destination-map@0.1.0-SNAPSHOT\"></getrequest-castles-destination-map-map>",
       "targetElementSelector": "#poimap"
-      }
+    }
   ],
   "apps": [
     {
       "id": "burgen",
-      "label": "Burgen und Schlösser",
+      "label": "Castles",
       "icon": "account_balance",
       "type": "web",
       "url": "https://cubbles.world/sandbox/getrequest-castles-destination-map@0.1.0-SNAPSHOT/getrequest-castles-destination-map-microwebapp/index.html"
     },
     {
       "id": "radwanderwege",
-      "label": "Randwanderwege (todo)",
+      "label": "Cycle paths (todo)",
       "icon": "assessment",
       "type": "web",
       "url": "http://todo.io/"
     },
     {
       "id": "veranstaltungen",
-      "label": "Veranstaltungen heute (todo)",
+      "label": "Events todoy (todo)",
       "icon": "looks",
       "type": "web",
       "url": "http://todo.io/"
