@@ -51,6 +51,13 @@
       "icon": "looks",
       "type": "web",
       "url": "https://thueringen.tourismusnetzwerk.info/inhalte/digitales-content/thuecat/"
+    },
+    {
+      "id": "config",
+      "label": "Launcher Config",
+      "icon": "looks",
+      "type": "web",
+      "url": "https://getrequest.github.io/launcher.demo/getrequest.de-betalab03/launcher/config.json"
     }
   ]
 }
