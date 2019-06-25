@@ -230,6 +230,12 @@
   background: rgba(255, 255, 255, 0.7);
 }
 
+.cubbles-cubx-launcher_cubx-launcher-touchpoint-label {
+  display: block;
+  white-space: nowrap;
+  color: #dd9933;
+}
+
 /*addition*/
 iframe{
   border: 0px solid black;
